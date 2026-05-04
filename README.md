@@ -303,7 +303,7 @@ This makes the project easier to discuss in interviews and more relevant for rea
 - add automated feature tests
 - add model registry and versioning
 
-## Recruiter Summary
+## Project Summary
 
 This project demonstrates the ability to take a raw Kaggle dataset and turn it into a professional machine learning case study with a clear business problem, structured analysis, feature engineering, model evaluation, and explainability.
 
